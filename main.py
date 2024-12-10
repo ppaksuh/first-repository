@@ -10,3 +10,4 @@ if __name__ == '__main__':
     pn.is_prime_number(97)
 
 print("nice to meet you\n")
+print("how are you?\n")
